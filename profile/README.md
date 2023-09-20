@@ -8,15 +8,17 @@
 
 1. **Diseño y Desarrollo de la Plataforma**: Crear una aplicación móvil y una plataforma web que sean intuitivas y fáciles de usar, permitiendo tanto a conductores como a pasajeros registrarse, gestionar sus viajes y realizar transacciones de manera segura.
 
-2. **Capacitación de Conductores**: Establecer un programa de formación para conductores interesados, garantizando que cumplan con los estándares de calidad, seguridad y servicio al cliente requeridos por #<T>.
+- Sigue nuestro figma. (Aqui)[https://www.figma.com/file/fQ1zA2BUDJAlctgd8OHlWJ/Transporte?type=design&node-id=0%3A1&mode=design&t=Nd5aWb9bqpv5GBBo-1]
 
-3. **Promoción y Sensibilización**: Lanzar una campaña de marketing y sensibilización dirigida a los ciudadanos de Montero, destacando las ventajas de usar #<T> sobre las opciones tradicionales de transporte.
+3. **Capacitación de Conductores**: Establecer un programa de formación para conductores interesados, garantizando que cumplan con los estándares de calidad, seguridad y servicio al cliente requeridos por #<T>.
 
-4. **Integración de Sistemas de Pago**: Incorporar un sistema de pago mediante códigos QR en la plataforma, permitiendo transacciones rápidas y seguras sin la necesidad de intercambio de efectivo.
+4. **Promoción y Sensibilización**: Lanzar una campaña de marketing y sensibilización dirigida a los ciudadanos de Montero, destacando las ventajas de usar #<T> sobre las opciones tradicionales de transporte.
 
-5. **Monitoreo y Retroalimentación**: Establecer un sistema de feedback donde los usuarios puedan valorar y revisar los servicios, permitiendo a #<T> adaptarse y mejorar constantemente en función de las necesidades y comentarios de la comunidad.
+5. **Integración de Sistemas de Pago**: Incorporar un sistema de pago mediante códigos QR en la plataforma, permitiendo transacciones rápidas y seguras sin la necesidad de intercambio de efectivo.
 
-6. **Expansión a Áreas Adyacentes**: Una vez establecido en Montero, buscar expandir el servicio a áreas adyacentes, ofreciendo soluciones de transporte a más ciudadanos y desafiando otros monopolios de transporte en la región.
+6. **Monitoreo y Retroalimentación**: Establecer un sistema de feedback donde los usuarios puedan valorar y revisar los servicios, permitiendo a #<T> adaptarse y mejorar constantemente en función de las necesidades y comentarios de la comunidad.
+
+7. **Expansión a Áreas Adyacentes**: Una vez establecido en Montero, buscar expandir el servicio a áreas adyacentes, ofreciendo soluciones de transporte a más ciudadanos y desafiando otros monopolios de transporte en la región.
 
 
 ### Justificación:
