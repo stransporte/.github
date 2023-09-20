@@ -1,12 +1,8 @@
 # Proyecto: #<T>
 
----
-
 ### Objetivo General:
 
 - Implementar una solución de transporte digital en la ciudad de Montero que garantice tarifas asequibles, eficiencia operacional y oportunidades de autoempleo, desafiando el monopolio de transporte actual y proporcionando una alternativa justa y transparente para los ciudadanos.
-
----
 
 ### Objetivos Específicos:
 
@@ -22,19 +18,14 @@
 
 6. **Expansión a Áreas Adyacentes**: Una vez establecido en Montero, buscar expandir el servicio a áreas adyacentes, ofreciendo soluciones de transporte a más ciudadanos y desafiando otros monopolios de transporte en la región.
 
----
 
 ### Justificación:
 
 La ciudad de Montero ha estado durante mucho tiempo bajo el yugo de un monopolio de transporte, que ha limitado las opciones de movilidad de los ciudadanos, inflado las tarifas y reducido la calidad del servicio. #<T> surge como una respuesta directa a este problema, proponiendo una solución digital que empodere tanto a conductores como a pasajeros, permitiéndoles tomar decisiones informadas, ahorrar dinero y mejorar su experiencia de viaje.
 
----
-
 ### Alcance:
 
 El proyecto se llevará a cabo en fases, comenzando con una fase piloto en áreas seleccionadas de Montero, antes de expandirse por toda la ciudad y eventualmente a áreas circundantes.
-
----
 
 ### Limitaciones:
 
@@ -43,6 +34,5 @@ El proyecto se llevará a cabo en fases, comenzando con una fase piloto en área
 - Adopción inicial lenta debido a la falta de conciencia o desconfianza en soluciones digitales.
 - Requerimientos de capital para marketing, desarrollo tecnológico y operaciones.
 
----
 
 A medida que #<T> se desarrolle y gane tracción, se espera que estas limitaciones puedan ser abordadas y superadas, liderando una transformación en la movilidad de Montero.
