@@ -8,7 +8,7 @@
 
 1. **Diseño y Desarrollo de la Plataforma**: Crear una aplicación móvil y una plataforma web que sean intuitivas y fáciles de usar, permitiendo tanto a conductores como a pasajeros registrarse, gestionar sus viajes y realizar transacciones de manera segura.
 
-- Sigue nuestro figma. (Aqui)[https://www.figma.com/file/fQ1zA2BUDJAlctgd8OHlWJ/Transporte?type=design&node-id=0%3A1&mode=design&t=Nd5aWb9bqpv5GBBo-1]
+- Sigue nuestro figma. [Aqui](https://www.figma.com/file/fQ1zA2BUDJAlctgd8OHlWJ/Transporte?type=design&node-id=0%3A1&mode=design&t=Nd5aWb9bqpv5GBBo-1)
 
 3. **Capacitación de Conductores**: Establecer un programa de formación para conductores interesados, garantizando que cumplan con los estándares de calidad, seguridad y servicio al cliente requeridos por #<T>.
 
