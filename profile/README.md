@@ -10,6 +10,30 @@
 
 - Sigue nuestro figma. [Aqui](https://www.figma.com/file/fQ1zA2BUDJAlctgd8OHlWJ/Transporte?type=design&node-id=0%3A1&mode=design&t=Nd5aWb9bqpv5GBBo-1)
 
+2. **Captacion de datos**
+- Datos del conductor:
+- - ![WhatsApp Image 2023-09-20 at 3 07 56 PM](https://github.com/stransporte/.github/assets/7370358/6f086ba4-30d5-4ab0-9afd-fa9d5c0b6a11)
+  - ![WhatsApp Image 2023-09-20 at 3 08 16 PM](https://github.com/stransporte/.github/assets/7370358/fc2ad3cb-3104-4958-a14a-7e9c48afa1f1)
+  - ![WhatsApp Image 2023-09-20 at 3 29 30 PM](https://github.com/stransporte/.github/assets/7370358/bed42634-c18b-43d1-a561-61c026a2f6e3)
+
+
+  |DATO|TIPO|REQUERIDO|
+  |----|----|---------|
+  |CI|Dato|Si|
+  |Nombres|Dato|Si|
+  |Apellidos|Dato|Si|
+  |Telefono|Dato|Si|
+  |Foto del CI|Dato|Si|
+  |Numero de licencia de conducir|Dato|Si|
+  |Foto de licencia de conducir|Dato|Si|
+  |Foto del RUAT DEL VEHICULO|Dato|Si|
+  |Foto del SOAT de la gestion actual|Dato|Si|
+  |Certificado de antecendentes|Dato|Si|
+  
+
+
+
+
 3. **Capacitación de Conductores**: Establecer un programa de formación para conductores interesados, garantizando que cumplan con los estándares de calidad, seguridad y servicio al cliente requeridos por #<T>.
 
 4. **Promoción y Sensibilización**: Lanzar una campaña de marketing y sensibilización dirigida a los ciudadanos de Montero, destacando las ventajas de usar #<T> sobre las opciones tradicionales de transporte.
@@ -38,3 +62,5 @@ El proyecto se llevará a cabo en fases, comenzando con una fase piloto en área
 
 
 A medida que #<T> se desarrolle y gane tracción, se espera que estas limitaciones puedan ser abordadas y superadas, liderando una transformación en la movilidad de Montero.
+
+## 
